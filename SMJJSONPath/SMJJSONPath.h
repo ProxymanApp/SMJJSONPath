@@ -22,10 +22,9 @@
 
 #import <Foundation/Foundation.h>
 
-#import <SMJJSONPath/SMJConfiguration.h>
-#import <SMJJSONPath/SMJEvaluationListener.h>
-#import <SMJJSONPath/SMJOption.h>
-
+#import "SMJConfiguration.h"
+#import "SMJEvaluationListener.h"
+#import "SMJOption.h"
 
 NS_ASSUME_NONNULL_BEGIN
 
